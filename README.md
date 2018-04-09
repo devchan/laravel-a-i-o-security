@@ -53,7 +53,6 @@ instead of using the issue tracker.
 
 ## Credits
 
-- [Chanaka Kasun de Silva](https://github.com/devchan/laravel-a-i-o-security)
 - [All contributors](https://github.com/devchan/laravel-a-i-o-security/graphs/contributors)
 
 This package is bootstrapped with the help of
