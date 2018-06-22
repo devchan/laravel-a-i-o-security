@@ -1,0 +1,19 @@
+{
+    "name": "devchan/laravel-a-i-o-security",
+    "description": "This is Laravel all in one security package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "devchan",
+            "email": "chanakadesilva21@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Devchan\\LaravelAIOSecurity\\": "src/"
+        }
+    }
+}
